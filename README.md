@@ -1,6 +1,3 @@
-# alternative-authentication
-A different way to authenticate users
-
 # Connect to Border Router
 1) Create modern Ubuntu VM 
 2) `git clone https://github.com/contiki-os/contiki.git`
