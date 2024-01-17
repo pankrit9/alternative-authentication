@@ -26,10 +26,7 @@ UDP data transmission and handling clock precision issues.
 Evaluation and Testing: Conducting tests to measure authentication accuracy and address challenges in data transmission and precision.
 
 ## Technologies Used
-- Blockchain Platform: Ethereum for secure transactions.
-- Off-Chain Components:
-  - Oracle: Chain Link for decentralized oracles.
-  - Database: Cloud storage for additional data related to heartbeat patterns.
+- Database: Cloud storage for additional data related to heartbeat patterns.
 - Machine Learning: Support Vector Machines and Neural Networks for pattern recognition and authentication.
 
 # Connect to Border Router
